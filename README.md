@@ -32,9 +32,11 @@ A full-stack web application that uses AI to summarize StackOverflow questions a
 
 ## 🎥 Demo Video
 
-https://github.com/FaiqaShabbir/ai-stackoverflow-summarizer/assets/demo.mp4
+[![AI StackOverflow Summarizer Demo](https://img.youtube.com/vi/KiAk1zHSWKw/0.jpg)](https://youtu.be/KiAk1zHSWKw)
 
 *Watch the full demo to see the AI StackOverflow Summarizer in action!*
+
+[▶️ Watch on YouTube](https://youtu.be/KiAk1zHSWKw)
 
 ## 🏃‍♂️ Quick Start
 
