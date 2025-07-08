@@ -198,17 +198,7 @@ Send follow-up questions to the AI.
 }
 ```
 
-## 🚀 Deployment
 
-### Backend (Render/Railway)
-1. Connect your GitHub repository
-2. Set environment variables
-3. Deploy with Python runtime
-
-### Frontend (Vercel)
-1. Connect your GitHub repository
-2. Set environment variables
-3. Deploy automatically on push
 
 ## 🤝 Contributing
 
