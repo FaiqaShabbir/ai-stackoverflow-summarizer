@@ -30,13 +30,11 @@ A full-stack web application that uses AI to summarize StackOverflow questions a
 - **OpenAI API** - GPT models for summarization and chat
 - **Anthropic API** - Claude models for web search and context gathering
 
-## 🚀 Live Demo
+## 🎥 Demo Video
 
-[Coming Soon - Deploy to Vercel]
+https://github.com/FaiqaShabbir/ai-stackoverflow-summarizer/assets/demo.mp4
 
-## 📸 Screenshots
-
-[Coming Soon - Add demo screenshots]
+*Watch the full demo to see the AI StackOverflow Summarizer in action!*
 
 ## 🏃‍♂️ Quick Start
 
